@@ -6,3 +6,8 @@ https://github.com/TcUnit/TcUnit
 https://github.com/TcHaxx/rplc
 https://github.com/Roald87/TcError
 https://github.com/rruiter87/TcControl
+https://github.com/loupeteam/TcPiper
+https://github.com/loupeteam/TcCommando
+https://github.com/loupeteam/TcSequencer
+https://github.com/loupeteam/TcPluginFramework
+https://github.com/tcunit/tcunit
